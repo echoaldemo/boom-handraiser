@@ -21,7 +21,7 @@ massive({
   port: 5432,
   database: "handraiser",
   user: "postgres",
-  password: "db"
+  password: "db" // CHANGE WITH YOUR POSTGRESS PASSWORD
 }).then(db => {
   const PORT = process.env.PORT || 3001;
   const app = express();
