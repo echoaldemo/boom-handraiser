@@ -1,0 +1,9 @@
+{
+  "db": {
+    "user": "postgres",
+    "password": "db",
+    "host": "boom-handraiser.com",
+    "port": 5432,
+    "database": "handraiser"
+  }
+}
