@@ -11,7 +11,7 @@
       "pg": "^7.12.1",
       "socker.io": "^0.0.0-alpha-beta",
       "socket.io": "^2.2.0",
-      "jsonwebtoken": "^8.5.1"
+      "jsonwebtoken": "^9.0.0"
     },
     "scripts": {
       "migrate": "node-pg-migrate",
